@@ -1,6 +1,6 @@
-| | |
-|:--|:--|
-| [![Heisel Analytics](Logo_NoBack_White.png)](https://www.heiselanalytics.one) | **Heisel Analytics**<br>Data solutions. Clearly scoped. Fixed price. |
+<img src="Logo_NoBack_White.png" alt="Heisel Analytics Logo" width="180" align="right">
+
+# Heisel Analytics
 
 Heisel Analytics develops practical data solutions for clearly defined business questions.
 
