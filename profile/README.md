@@ -1,37 +1,71 @@
-<img src="Logo_NoBack_White.png" alt="Heisel Analytics Logo" width="180" align="right">
+<p align="center">
+  <img src="12_StormWaves.jpg" alt="Storm waves" width="100%">
+</p>
+
+<img src="Logo_NoBack_White.png" alt="Heisel Analytics Logo" width="260" align="right">
 
 # Heisel Analytics
 
-**Data solutions. Clearly scoped. Fixed price.**
+<h2>
+  Data solutions<span style="color:#ffaa00;">.</span>
+  Clearly scoped<span style="color:#ffaa00;">.</span>
+  Fixed price<span style="color:#ffaa00;">.</span>
+</h2>
 
-Heisel Analytics develops practical and reliable data solutions for companies. The focus is on clear requirements, structured implementation and understandable documentation.
+Heisel Analytics develops practical data solutions for clearly defined business questions. The focus is on understanding the underlying challenge, structuring the available data and delivering a solution that can be used in day-to-day operations.
 
 <br clear="right">
 
 ## Services
 
-- Exploratory data analysis
+- Data analysis and data preparation
 - Dashboards and reporting
-- Automation and data pipelines
+- Data automation and data pipelines
 - Forecasting and data tools
-- Data engineering and technical documentation
+- Technical documentation of data sources, logic and results
 
-## Approach
+## How it works
 
-We combine technical implementation with business understanding. Each solution is designed around a clearly defined objective, a transparent scope and practical use in day-to-day operations.
+### 01 · Understand the question
 
-## Technologies
+The first step is to clarify which question needs to be answered, which data is available and what value the solution should create.
 
-`Python` · `SQL` · `Power BI` · `Databricks` · `Docker` · `GitHub Actions` · `JavaScript` · `HTML` · `CSS`
+### 02 · Define the project goal
 
-## Principles
+The objective, scope, data sources and expected result are clearly defined. Depending on the size of the request, the work is divided into one or more focused work packages.
 
-- Clear scope
-- Transparent implementation
-- Reproducible processes
-- Reliable documentation
-- Secure handling of data
+### 03 · Develop the solution
+
+The appropriate data solution is implemented, for example as an analysis, dashboard, data model, automation, pipeline or small data tool.
+
+### 04 · Deliver the result
+
+The completed solution is documented and provided in a form that can be integrated into day-to-day operations.
+
+## Focused work packages
+
+Many data projects lose momentum because coordination, project structures and administrative effort become larger than the original question.
+
+Heisel Analytics follows a deliberately focused approach. Concrete questions are translated into clearly defined work packages, each ending with a usable result.
+
+Direct collaboration, short decision paths and a clearly limited scope keep the effort where it creates the most value: understanding the business context, implementing the solution and making the result available for practical use.
+
+## Working principles
+
+- Clearly defined objectives and deliverables
+- Transparent scope and fixed pricing
+- Direct and focused collaboration
+- Up to two revision rounds within the agreed scope
+- Reproducible implementation
+- Understandable documentation
+- Secure and purpose-specific handling of data
+
+## About Heisel Analytics
+
+Heisel Analytics combines business understanding with Data Science, Data Engineering and the development of practical data solutions.
+
+The objective is not to introduce unnecessary complexity, but to create a reliable and understandable solution for a specific question. Each result is designed to work technically, remain maintainable and provide practical value within the company.
 
 ## Contact
 
-[Website](https://www.heiselanalytics.one) · [Services](https://www.heiselanalytics.one/services) · [Contact](https://www.heiselanalytics.one/kontakt)
+[Website](https://www.heiselanalytics.one) · [Services](https://www.heiselanalytics.one/services) · [Expertise](https://www.heiselanalytics.one/expertise) · [Contact](https://www.heiselanalytics.one/kontakt)
